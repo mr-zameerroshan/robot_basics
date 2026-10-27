@@ -1,0 +1,18 @@
+# ROS 2 and CMake build artifacts
+build/
+install/
+log/
+
+# Compiled files
+*.o
+*.so
+*.a
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Editor and OS files
+.vscode/
+.DS_Store
+
